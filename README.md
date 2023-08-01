@@ -1,16 +1,22 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**ProfeFabio14/ProfeFabio14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Fabio Romero, um programador Front-End. Atualmente estou aprendendo e realizando projetos com: 
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 
-Here are some ideas to get you started:
+Estou começando a aprender:
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS-logo"/>
+- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-logo"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:ballot_box_with_check: Meu objetivo é aperfeiçoar minhas habilidades nessas tecnologias para desenvolver projetos inovadores, funcionais e também resolver problemas. Eu acredito firmemente na importância do trabalho em equipe e colaboração para alcançar resultados excepcionais. Estou entusiasmado com a ideia de colaborar com outros profissionais da indústria para enfrentar desafios e enriquecer meu conhecimento no processo. :computer: :smile:
+
+### Entre em contato comigo :point_down:
+<p>
+<a href="https://www.linkedin.com/in/fabioromeroo/">
+<img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+<a/>
+  
+<a href="mailto:fabiiosbs@gmail.com">
+<img  width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>
+  </a>
+</p>
