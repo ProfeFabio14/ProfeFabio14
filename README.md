@@ -12,7 +12,7 @@ Estou começando a aprender:
 
 ### Entre em contato comigo :point_down:
 <p>
-<a href="https://www.linkedin.com/in/fabioromeroo/">
+<a href="https://www.linkedin.com/in/fabioromeroo/" target="_blank">
 <img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 <a/>
   
