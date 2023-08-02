@@ -23,4 +23,8 @@ Estou começando a aprender:
 <a href="https://wa.me/5547997453024?text=¡Oi+Fábio,+eu+sou...!" target="_blank">
   <img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg"/>
 </a>
+
+<a href="https://www.instagram.com/romerofr14/" target="_blank">
+  <img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg"/>
+</a>
 </p>
