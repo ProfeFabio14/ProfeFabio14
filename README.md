@@ -13,10 +13,14 @@ Estou começando a aprender:
 ### Entre em contato comigo :point_down:
 <p>
 <a href="https://www.linkedin.com/in/fabioromeroo/" target="_blank">
-<img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  <img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 <a/>
   
 <a href="mailto:fabiiosbs@gmail.com" target="_blank">
-<img  width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>
+  <img  width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>
   </a>
+
+<a href="https://wa.me/5547997453024?text=¡Oi+Fábio,+eu+sou...!">
+  <img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg"/>
+</a>
 </p>
