@@ -20,7 +20,7 @@ Estou começando a aprender:
   <img  width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>
   </a>
 
-<a href="https://wa.me/5547997453024?text=¡Oi+Fábio,+eu+sou...!">
-  <img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg"/>
+<a href="https://wa.me/5547997453024?text=¡Oi+Fábio,+eu+sou...!" target="_blank">
+  <img width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg"/>
 </a>
 </p>
