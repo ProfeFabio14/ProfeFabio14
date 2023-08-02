@@ -16,7 +16,7 @@ Estou começando a aprender:
 <img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 <a/>
   
-<a href="mailto:fabiiosbs@gmail.com">
+<a href="mailto:fabiiosbs@gmail.com" target="_blank">
 <img  width="25px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>
   </a>
 </p>
